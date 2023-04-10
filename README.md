@@ -9,3 +9,7 @@ Remember the three steps in Problem Solving:
 * Plan / Pseudo Code
 * Divide and conquer
 
+### Technology Used
+Javascript
+
+A practice to improve problem solving skills and javascript skills. Two birds with one stone!
