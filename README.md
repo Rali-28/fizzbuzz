@@ -10,6 +10,6 @@ Remember the three steps in Problem Solving:
 * Divide and conquer
 
 ### Technology Used
-Javascript
+<img src="./js_logo.png" alt="Javascript logo" style="width: 20px; height: 20px"> Javascript
 
 A practice to improve problem solving skills and javascript skills. Two birds with one stone!
