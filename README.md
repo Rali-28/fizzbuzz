@@ -1,4 +1,5 @@
 # fizzbuzz
+
 Practice problem solving skills through FizzBuzz.
 
 FizzBuzz is usually used in coding interviews to test 
@@ -10,11 +11,12 @@ Remember the three steps in Problem Solving:
 * Divide and conquer
 
 ### Technology Used
+
 <img src="./js_logo.png" alt="Javascript logo" style="width: 20px; height: 20px"> Javascript
 
 A practice to improve problem solving skills and javascript skills. Two birds with one stone!
 
-
 ### Attributions
 
 [js_log.png](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) is from Chris Williams, Public domain, via Wikimedia Commons
+
