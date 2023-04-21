@@ -15,4 +15,8 @@ for (let i = 1; i <= 100; i++) {
     else if (divisibleByThree == 0) {
         console.log('Fizz')
     }
+    // Runs if the value of i is only divisible by 5
+    else if (divisibleByFive == 0) {
+        console.log('Buzz')
+    }
 }
