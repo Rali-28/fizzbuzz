@@ -10,6 +10,25 @@ Remember the three steps in Problem Solving:
 * Plan / Pseudo Code
 * Divide and conquer
 
+### Pseudo Code
+
+Loop of 1 - 100 numbers
+
+    if divisible by 3 && 5
+        replace value to
+        print Fizz Buzz
+    
+    if divisible by only 3
+        replace value to
+        print Fizz
+
+    if divisible by only 5
+        replace value to
+        print Buzz
+
+    else 
+        simply print the number 
+
 ### Technology Used
 
 <img src="./js_logo.png" alt="Javascript logo" style="width: 20px; height: 20px"> Javascript
