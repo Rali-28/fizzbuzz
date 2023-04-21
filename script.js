@@ -11,4 +11,8 @@ for (let i = 1; i <= 100; i++) {
     if (divisibleByThree == 0 && divisibleByFive == 0) {
         console.log('Fizz Buzz')
     }
+    // Runs if the value of i is only divisible by 3
+    else if (divisibleByThree == 0) {
+        console.log('Fizz')
+    }
 }
